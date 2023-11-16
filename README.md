@@ -8,7 +8,7 @@ A simple and stylish New Year's Eve countdown timer website built with HTML, CSS
 
 - Countdown to New Year's Eve
 - Responsive design for various devices
-- Gradient text and background for an attractive lookd
+- Gradient text and background for an attractive look
 
 ## Demo
 
