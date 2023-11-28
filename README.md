@@ -18,7 +18,7 @@ Check out the live demo: [Countdown Timer](https://countdown-timer-kvitsi.netlif
 
 Clone the repository:
 
-git clone https://github.com/yourusername/countdown-timer.git
+git clone https://github.com/kvitsi/countdown-timer.git
 cd countdown-timer
 
 Open `index.html` in your web browser.
