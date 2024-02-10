@@ -31,6 +31,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Background image: [Unsplash](https://unsplash.com)
 
-## Author
+## Contact
 
-Kvitsi
+Feel free to reach out with any questions or feedback:
+
+- Email: kvitsianinika@gmail.com
+- Twitter: [Kvitsianinika](https://twitter.com/Kvitsianinika)
+- LinkedIn: [Nika Kvitsiani](https://www.linkedin.com/in/nika-kvitsiani/)
